@@ -1,0 +1,8 @@
+#EXTINF:-1 tvg-name="The Last of Us S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/aRquEWm8wWF1dfa9uZ1TXLvVrKD.jpg" group-title="Latest Releases",The Last of Us S01E01
+http://102.129.200.202:80/series/fredfury@vdxmedia.com/URMryDtdXn/950594.mkv
+#EXTINF:-1 tvg-name="The Last of Us S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/bzy4hAtkY3OOInY4q6MJigLmC1m.jpg" group-title="Latest Releases",The Last of Us S01E03
+http://102.129.200.202:80/series/fredfury@vdxmedia.com/URMryDtdXn/949963.mkv
+#EXTINF:-1 tvg-name="The Last of Us S01E06" tvg-logo="https://image.tmdb.org/t/p/w1280/zW9AIy0PVhYfmukqBcUvlvi4mKc.jpg" group-title="Latest Releases",The Last of Us S01E06
+http://102.129.200.202:80/series/fredfury@vdxmedia.com/URMryDtdXn/950589.mkv
+#EXTINF:-1 tvg-name="The Last of Us S01E07" tvg-logo="https://image.tmdb.org/t/p/w1280/grrTkpBGcQSgu78iResLgbJlvUE.jpg" group-title="Latest Releases",The Last of Us S01E07
+http://102.129.200.202:80/series/fredfury@vdxmedia.com/URMryDtdXn/949964.mkv
